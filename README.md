@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafikicodez
 - 👀 I’m interested in all things computer and code
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Python :D
 - 📫 How to reach me? Wouldn't you like to know!
 
 <!---
